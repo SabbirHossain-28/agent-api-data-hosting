@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Emily Johnson",
+      "working_experience": "10 years",
+      "rating": 4.8,
+      "skills": ["Negotiation", "Marketing", "Customer Service"],
+      "working_year": 2010,
+      "image": "emily_johnson.jpg"
+    },
+    {
+      "name": "Michael Smith",
+      "working_experience": "7 years",
+      "rating": 4.5,
+      "skills": ["Property Valuation", "Networking", "Contract Management"],
+      "working_year": 2017,
+      "image": "michael_smith.jpg"
+    },
+    {
+      "name": "Sophia Rodriguez",
+      "working_experience": "5 years",
+      "rating": 4.7,
+      "skills": ["Client Relations", "Market Analysis", "Property Management"],
+      "working_year": 2019,
+      "image": "sophia_rodriguez.jpg"
+    },
+    {
+      "name": "David Nguyen",
+      "working_experience": "12 years",
+      "rating": 4.9,
+      "skills": ["Investment Analysis", "Real Estate Law", "Project Management"],
+      "working_year": 2008,
+      "image": "david_nguyen.jpg"
+    }
+  ]
+  

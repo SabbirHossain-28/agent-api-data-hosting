@@ -1,5 +1,8 @@
 [
     {
+        "animation":"flip-left",
+        "duration":"500",
+        "easing":"ease",
       "name": "Emily Johnson",
       "working_experience": "10 years",
       "rating": 5.0,
@@ -8,6 +11,9 @@
       "image": "https://i.ibb.co/ZH9GdxS/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg"
     },
     {
+        "animation":"flip-right",
+        "duration":"500",
+        "easing":"ease"
       "name": "Michael Smith",
       "working_experience": "7 years",
       "rating": 4.0,
@@ -16,6 +22,9 @@
       "image": "https://i.ibb.co/71fKyFQ/ludovic-migneault-EZ4-TYg-XPNWk-unsplash.jpg"
     },
     {
+        "animation":"flip-left",
+        "duration":"500",
+        "easing":"ease"
       "name": "Sophia Rodriguez",
       "working_experience": "5 years",
       "rating": 5.0,
@@ -24,6 +33,9 @@
       "image": "https://i.ibb.co/HhFNVWK/freestocks-9-UVml-Ib0w-JU-unsplash.jpg"
     },
     {
+        "animation":"flip-right",
+        "duration":"500",
+        "easing":"ease"
       "name": "Eliana Duke",
       "working_experience": "12 years",
       "rating": 4.0,
